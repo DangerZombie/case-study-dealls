@@ -13,6 +13,7 @@ These are the prerequisites to run the project:
 - [mockgen](https://github.com/uber-go/mock)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Git](https://git-scm.com/downloads)
+- [GNU Make](https://www.gnu.org/software/make/)
 
 ### 1.2. Installing
 
