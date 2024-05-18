@@ -1,0 +1,12 @@
+# database settings
+database:
+  driver: driver
+  host: host
+  port: port
+  username: username
+  password: password
+  dbname: dbname
+
+  # secret key settings
+jwt:
+  secret-key: your-secret-key

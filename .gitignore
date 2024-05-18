@@ -1,0 +1,25 @@
+# ---> Go
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode/*
+.idea/*
+*.db
+
+# another file do not saved
+*.rar
+*.zip
+*.tar.gz
+*.tar.bz2
+*.gzip  
+*.7z
+*.csv
+*.xls  
+*.xlsx
+*.log
+*.yaml
+*.out
+Makefile
